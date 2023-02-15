@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=491080&background=FFFEFEF3&width=435&lines=My+name+is+Nela+Komane;I+am+a+Software+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1346A&width=435&lines=I'm+Nela%2C+I+am+a+software+engineer;+I'm+proud+to+be+a+software+engineer;I+feel+incredibly+fortunate+;Passionate+about+what+i+do;I'm+grateful+for+it+every+day." alt="Typing SVG" /></a>
   <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" height="200"/>
 </div>
