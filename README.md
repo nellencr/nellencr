@@ -12,10 +12,10 @@
 </div>
   
   
-*With a keen eye for identifying challenges and a steadfast commitment to finding effective solutions, I am a highly motivated self-starter who takes great pride in my work. My passion for problem-solving drives me to tackle each challenge with enthusiasm, leveraging my creativity and determination to consistently achieve positive outcomes."*
+_*With a keen eye for identifying challenges and a steadfast commitment to finding effective solutions, I am a highly motivated self-starter who takes great pride in my work. My passion for problem-solving drives me to tackle each challenge with enthusiasm, leveraging my creativity and determination to consistently achieve positive outcomes.*_
 
 
-- 🔭 "I am a proud final-year computer science student at the University of South Africa :south_africa:, where I have been honing my skills and expanding my knowledge       in this fascinating field."
+- 🔭 I am a proud final-year computer science student at the University of South Africa :south_africa:, where I have been honing my skills and expanding my knowledge       in this fascinating field."
 
 - :seedling: Exploring Technical Content Writing.
 
